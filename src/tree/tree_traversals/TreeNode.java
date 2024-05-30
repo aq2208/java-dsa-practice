@@ -1,4 +1,4 @@
-package tree.rooted_tree_representation;
+package tree.tree_traversals;
 
 import java.util.ArrayList;
 import java.util.List;
